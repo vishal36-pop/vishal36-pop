@@ -1,7 +1,8 @@
 - 👋 Hi, I’m vishal
 - 👀 I’m interested in Ai,Ds ...
 - 🌱 I’m currently learning deeplearning and optimization
-- 📫 How to reach me [gmail](vishalreddyk36@gmail.com),[linkedin](linkedin.com/in/vishal-reddy-k-bab178337)
+- 📫 How to reach me (vishalreddyk36@gmail.com),
+- 🧑‍🏫 linkedin-(linkedin.com/in/vishal-reddy-k-bab178337)
 - 😄 Pronouns: He/Him
 
 <!---
