@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @vishal36-pop
-- 👀 I’m interested in .Ai..
+- 👋 Hi, I’m vishal
+- 👀 I’m interested in Ai,Ds ...
 - 🌱 I’m currently learning data science and statistical machine learning
-- 💞️ I’m looking to collaborate on projects with the basic ml models which uses ensemble learing models 
+- 💞️ I’m looking to collaborate on projects involving neural networks
 - 📫 How to reach me .vishalreddyk36@gmail.com.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
 
 <!---
 vishal36-pop/vishal36-pop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
