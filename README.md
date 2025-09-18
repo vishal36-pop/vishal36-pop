@@ -1,7 +1,6 @@
 - 👋 Hi, I’m vishal
 - 👀 I’m interested in Ai,Ds ...
-- 🌱 I’m currently learning data science and statistical machine learning
-- 💞️ I’m looking to collaborate on projects involving neural networks
+- 🌱 I’m currently learning deeplearning and optimization
 - 📫 How to reach me .vishalreddyk36@gmail.com.
 - 😄 Pronouns: He/Him
 
